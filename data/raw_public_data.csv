@@ -1,0 +1,251 @@
+Region,Year_Quarter,Metric_Value,Category
+Auckland,2024-Q1,166958,Infrastructure
+Auckland,2024-Q1,176932,Economic
+Auckland,2024-Q1,148694,Logistics
+Auckland,2024-Q1,164879,Trade
+Auckland,2024-Q1,155268,Regional
+Auckland,2024-Q2,99886,Infrastructure
+Auckland,2024-Q2,132498,Economic
+Auckland,2024-Q2,157727,Logistics
+Auckland,2024-Q2,171324,Trade
+Auckland,2024-Q2,61023,Regional
+Auckland,2024-Q3,86090,Infrastructure
+Auckland,2024-Q3,112221,Economic
+Auckland,2024-Q3,109820,Logistics
+Auckland,2024-Q3,45769,Trade
+Auckland,2024-Q3,104735,Regional
+Auckland,2024-Q4,109925,Infrastructure
+Auckland,2024-Q4,50311,Economic
+Auckland,2024-Q4,148355,Logistics
+Auckland,2024-Q4,130305,Trade
+Auckland,2024-Q4,175608,Regional
+Auckland,2025-Q1,129478,Infrastructure
+Auckland,2025-Q1,167537,Economic
+Auckland,2025-Q1,175523,Logistics
+Auckland,2025-Q1,47747,Trade
+Auckland,2025-Q1,168855,Regional
+Wellington,2024-Q1,110725,Infrastructure
+Wellington,2024-Q1,174981,Economic
+Wellington,2024-Q1,129654,Logistics
+Wellington,2024-Q1,164346,Trade
+Wellington,2024-Q1,112435,Regional
+Wellington,2024-Q2,101886,Infrastructure
+Wellington,2024-Q2,111803,Economic
+Wellington,2024-Q2,76551,Logistics
+Wellington,2024-Q2,161216,Trade
+Wellington,2024-Q2,56394,Regional
+Wellington,2024-Q3,114092,Infrastructure
+Wellington,2024-Q3,48890,Economic
+Wellington,2024-Q3,86606,Logistics
+Wellington,2024-Q3,132313,Trade
+Wellington,2024-Q3,53792,Regional
+Wellington,2024-Q4,113148,Infrastructure
+Wellington,2024-Q4,169243,Economic
+Wellington,2024-Q4,165174,Logistics
+Wellington,2024-Q4,169358,Trade
+Wellington,2024-Q4,93555,Regional
+Wellington,2025-Q1,62159,Infrastructure
+Wellington,2025-Q1,155510,Economic
+Wellington,2025-Q1,151530,Logistics
+Wellington,2025-Q1,125077,Trade
+Wellington,2025-Q1,80920,Regional
+Canterbury,2024-Q1,64457,Infrastructure
+Canterbury,2024-Q1,123953,Economic
+Canterbury,2024-Q1,97995,Logistics
+Canterbury,2024-Q1,54692,Trade
+Canterbury,2024-Q1,82065,Regional
+Canterbury,2024-Q2,144299,Infrastructure
+Canterbury,2024-Q2,56534,Economic
+Canterbury,2024-Q2,85397,Logistics
+Canterbury,2024-Q2,136387,Trade
+Canterbury,2024-Q2,46016,Regional
+Canterbury,2024-Q3,100591,Infrastructure
+Canterbury,2024-Q3,68247,Economic
+Canterbury,2024-Q3,69300,Logistics
+Canterbury,2024-Q3,127798,Trade
+Canterbury,2024-Q3,54268,Regional
+Canterbury,2024-Q4,131807,Infrastructure
+Canterbury,2024-Q4,57185,Economic
+Canterbury,2024-Q4,83044,Logistics
+Canterbury,2024-Q4,96214,Trade
+Canterbury,2024-Q4,159752,Regional
+Canterbury,2025-Q1,93984,Infrastructure
+Canterbury,2025-Q1,85774,Economic
+Canterbury,2025-Q1,47568,Logistics
+Canterbury,2025-Q1,165151,Trade
+Canterbury,2025-Q1,178767,Regional
+Waikato,2024-Q1,169375,Infrastructure
+Waikato,2024-Q1,84504,Economic
+Waikato,2024-Q1,58986,Logistics
+Waikato,2024-Q1,106858,Trade
+Waikato,2024-Q1,174312,Regional
+Waikato,2024-Q2,57666,Infrastructure
+Waikato,2024-Q2,83660,Economic
+Waikato,2024-Q2,179633,Logistics
+Waikato,2024-Q2,71854,Trade
+Waikato,2024-Q2,109505,Regional
+Waikato,2024-Q3,149488,Infrastructure
+Waikato,2024-Q3,67662,Economic
+Waikato,2024-Q3,53392,Logistics
+Waikato,2024-Q3,75535,Trade
+Waikato,2024-Q3,158569,Regional
+Waikato,2024-Q4,97256,Infrastructure
+Waikato,2024-Q4,134135,Economic
+Waikato,2024-Q4,172478,Logistics
+Waikato,2024-Q4,80222,Trade
+Waikato,2024-Q4,122373,Regional
+Waikato,2025-Q1,168684,Infrastructure
+Waikato,2025-Q1,55965,Economic
+Waikato,2025-Q1,69538,Logistics
+Waikato,2025-Q1,153066,Trade
+Waikato,2025-Q1,158252,Regional
+Otago,2024-Q1,143806,Infrastructure
+Otago,2024-Q1,155989,Economic
+Otago,2024-Q1,135982,Logistics
+Otago,2024-Q1,166626,Trade
+Otago,2024-Q1,164176,Regional
+Otago,2024-Q2,176278,Infrastructure
+Otago,2024-Q2,167409,Economic
+Otago,2024-Q2,68419,Logistics
+Otago,2024-Q2,95015,Trade
+Otago,2024-Q2,167096,Regional
+Otago,2024-Q3,152059,Infrastructure
+Otago,2024-Q3,155687,Economic
+Otago,2024-Q3,132939,Logistics
+Otago,2024-Q3,150878,Trade
+Otago,2024-Q3,107623,Regional
+Otago,2024-Q4,120450,Infrastructure
+Otago,2024-Q4,138426,Economic
+Otago,2024-Q4,162845,Logistics
+Otago,2024-Q4,88585,Trade
+Otago,2024-Q4,154225,Regional
+Otago,2025-Q1,109044,Infrastructure
+Otago,2025-Q1,154556,Economic
+Otago,2025-Q1,47693,Logistics
+Otago,2025-Q1,140259,Trade
+Otago,2025-Q1,70939,Regional
+Hawke's Bay,2024-Q1,63047,Infrastructure
+Hawke's Bay,2024-Q1,71105,Economic
+Hawke's Bay,2024-Q1,120766,Logistics
+Hawke's Bay,2024-Q1,89262,Trade
+Hawke's Bay,2024-Q1,170117,Regional
+Hawke's Bay,2024-Q2,68776,Infrastructure
+Hawke's Bay,2024-Q2,173376,Economic
+Hawke's Bay,2024-Q2,137787,Logistics
+Hawke's Bay,2024-Q2,172948,Trade
+Hawke's Bay,2024-Q2,100016,Regional
+Hawke's Bay,2024-Q3,66959,Infrastructure
+Hawke's Bay,2024-Q3,164101,Economic
+Hawke's Bay,2024-Q3,48748,Logistics
+Hawke's Bay,2024-Q3,58545,Trade
+Hawke's Bay,2024-Q3,172659,Regional
+Hawke's Bay,2024-Q4,118530,Infrastructure
+Hawke's Bay,2024-Q4,138557,Economic
+Hawke's Bay,2024-Q4,106087,Logistics
+Hawke's Bay,2024-Q4,113840,Trade
+Hawke's Bay,2024-Q4,163451,Regional
+Hawke's Bay,2025-Q1,96005,Infrastructure
+Hawke's Bay,2025-Q1,84353,Economic
+Hawke's Bay,2025-Q1,97733,Logistics
+Hawke's Bay,2025-Q1,110318,Trade
+Hawke's Bay,2025-Q1,112172,Regional
+Bay of Plenty,2024-Q1,138264,Infrastructure
+Bay of Plenty,2024-Q1,71736,Economic
+Bay of Plenty,2024-Q1,157859,Logistics
+Bay of Plenty,2024-Q1,157181,Trade
+Bay of Plenty,2024-Q1,176926,Regional
+Bay of Plenty,2024-Q2,135084,Infrastructure
+Bay of Plenty,2024-Q2,52392,Economic
+Bay of Plenty,2024-Q2,100680,Logistics
+Bay of Plenty,2024-Q2,95859,Trade
+Bay of Plenty,2024-Q2,170657,Regional
+Bay of Plenty,2024-Q3,115467,Infrastructure
+Bay of Plenty,2024-Q3,143506,Economic
+Bay of Plenty,2024-Q3,154751,Logistics
+Bay of Plenty,2024-Q3,163906,Trade
+Bay of Plenty,2024-Q3,70342,Regional
+Bay of Plenty,2024-Q4,151308,Infrastructure
+Bay of Plenty,2024-Q4,151081,Economic
+Bay of Plenty,2024-Q4,134045,Logistics
+Bay of Plenty,2024-Q4,79698,Trade
+Bay of Plenty,2024-Q4,155078,Regional
+Bay of Plenty,2025-Q1,125623,Infrastructure
+Bay of Plenty,2025-Q1,67671,Economic
+Bay of Plenty,2025-Q1,138384,Logistics
+Bay of Plenty,2025-Q1,131202,Trade
+Bay of Plenty,2025-Q1,96663,Regional
+Manawatu-Wanganui,2024-Q1,60708,Infrastructure
+Manawatu-Wanganui,2024-Q1,136906,Economic
+Manawatu-Wanganui,2024-Q1,94811,Logistics
+Manawatu-Wanganui,2024-Q1,178883,Trade
+Manawatu-Wanganui,2024-Q1,101250,Regional
+Manawatu-Wanganui,2024-Q2,157547,Infrastructure
+Manawatu-Wanganui,2024-Q2,169249,Economic
+Manawatu-Wanganui,2024-Q2,79754,Logistics
+Manawatu-Wanganui,2024-Q2,178983,Trade
+Manawatu-Wanganui,2024-Q2,129896,Regional
+Manawatu-Wanganui,2024-Q3,116295,Infrastructure
+Manawatu-Wanganui,2024-Q3,145689,Economic
+Manawatu-Wanganui,2024-Q3,56111,Logistics
+Manawatu-Wanganui,2024-Q3,82504,Trade
+Manawatu-Wanganui,2024-Q3,177874,Regional
+Manawatu-Wanganui,2024-Q4,53155,Infrastructure
+Manawatu-Wanganui,2024-Q4,84384,Economic
+Manawatu-Wanganui,2024-Q4,157561,Logistics
+Manawatu-Wanganui,2024-Q4,92254,Trade
+Manawatu-Wanganui,2024-Q4,66918,Regional
+Manawatu-Wanganui,2025-Q1,130981,Infrastructure
+Manawatu-Wanganui,2025-Q1,75306,Economic
+Manawatu-Wanganui,2025-Q1,91843,Logistics
+Manawatu-Wanganui,2025-Q1,165975,Trade
+Manawatu-Wanganui,2025-Q1,141601,Regional
+Northland,2024-Q1,152512,Infrastructure
+Northland,2024-Q1,156472,Economic
+Northland,2024-Q1,178121,Logistics
+Northland,2024-Q1,148727,Trade
+Northland,2024-Q1,157893,Regional
+Northland,2024-Q2,65932,Infrastructure
+Northland,2024-Q2,162796,Economic
+Northland,2024-Q2,74855,Logistics
+Northland,2024-Q2,52400,Trade
+Northland,2024-Q2,162858,Regional
+Northland,2024-Q3,60151,Infrastructure
+Northland,2024-Q3,111690,Economic
+Northland,2024-Q3,49499,Logistics
+Northland,2024-Q3,51295,Trade
+Northland,2024-Q3,165885,Regional
+Northland,2024-Q4,171071,Infrastructure
+Northland,2024-Q4,104040,Economic
+Northland,2024-Q4,57183,Logistics
+Northland,2024-Q4,161336,Trade
+Northland,2024-Q4,77711,Regional
+Northland,2025-Q1,50539,Infrastructure
+Northland,2025-Q1,171063,Economic
+Northland,2025-Q1,178629,Logistics
+Northland,2025-Q1,83360,Trade
+Northland,2025-Q1,178272,Regional
+Southland,2024-Q1,66357,Infrastructure
+Southland,2024-Q1,164121,Economic
+Southland,2024-Q1,122505,Logistics
+Southland,2024-Q1,47869,Trade
+Southland,2024-Q1,95108,Regional
+Southland,2024-Q2,157296,Infrastructure
+Southland,2024-Q2,139179,Economic
+Southland,2024-Q2,135272,Logistics
+Southland,2024-Q2,83467,Trade
+Southland,2024-Q2,68328,Regional
+Southland,2024-Q3,136412,Infrastructure
+Southland,2024-Q3,103871,Economic
+Southland,2024-Q3,173391,Logistics
+Southland,2024-Q3,131416,Trade
+Southland,2024-Q3,115271,Regional
+Southland,2024-Q4,89064,Infrastructure
+Southland,2024-Q4,152450,Economic
+Southland,2024-Q4,64830,Logistics
+Southland,2024-Q4,161381,Trade
+Southland,2024-Q4,92333,Regional
+Southland,2025-Q1,179508,Infrastructure
+Southland,2025-Q1,121213,Economic
+Southland,2025-Q1,75746,Logistics
+Southland,2025-Q1,94377,Trade
+Southland,2025-Q1,99045,Regional
