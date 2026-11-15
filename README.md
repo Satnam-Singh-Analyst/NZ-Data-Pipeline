@@ -56,7 +56,7 @@ Built with modern DAX window and filter-context functions for dynamic executive 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Satnam-Singh-Analyst/NZ-Data-Pipeline.git
+   git clone [https://github.com/Satnam-Singh-Analyst/NZ-Data-Pipeline.git](https://github.com/Satnam-Singh-Analyst/NZ-Data-Pipeline.git)
    cd NZ-Data-Pipeline
    ```
 
