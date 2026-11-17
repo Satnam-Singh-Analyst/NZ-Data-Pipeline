@@ -2,7 +2,7 @@
 
 An end-to-end data engineering and business intelligence solution that ingests regional economic metrics into a **PostgreSQL 18** star schema via Python and visualizes quarterly revenue, regional share, and cumulative growth trajectories in **Power BI**.
 
-![Dashboard Preview](/images/Dashboard%20Preview.png)
+![Dashboard Preview](/images/Dashboard_Preview.png)
 
 ---
 
